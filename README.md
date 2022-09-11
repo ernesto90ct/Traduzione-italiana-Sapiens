@@ -3,6 +3,7 @@ Traduzione Italiana del gioco Sapiens
 Autore: Ernesto Rossitto, nickname: HunterZeno. 
 
 Istruzioni:
+Scarica il file Zip 'Traduzione Italiana Sapiens.zip'
 Inserisci la cartella 'GameResurces' all'interno della directory principale del gioco.
 Se non riesci a trovarla, puoi raggiungerla cliccando dalla tua libreria di Steam col tasto destro sul nome del gioco:
 Gestisci> Sfoglia files locali.
